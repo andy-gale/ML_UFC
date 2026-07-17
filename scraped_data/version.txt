@@ -1,0 +1,2 @@
+This dataset from: https://github.com/Greco1899/scrape_ufc_stats/tree/main
+CSVs last updated: 3/2/2026 , not updated for UFC 326 and beyond
